@@ -1,4 +1,3 @@
-#Git Course
-Primeiro arquivo no git
+# Curso de Git
 
-Gostou do curso?
+Repositório para testes do curso de Git e GitHub
