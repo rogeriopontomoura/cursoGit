@@ -1,4 +1,4 @@
-#Curso de Git
+# Curso de Git
 
 Repositório para testes do curso de Git e GitHub
 
@@ -20,7 +20,7 @@ Repositório para testes do curso de Git e GitHub
 
 **Commit**
 
-git commit -m "descrição"
+> git commit -m "descrição"
 
 **Atualizar repositório**
 
