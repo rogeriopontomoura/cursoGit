@@ -37,3 +37,5 @@ Repositório para testes do curso de Git e GitHub
 **Deletar branch**
 
 > git branch -D "nomeDoBranch"
+
+Teste git revert
